@@ -1,6 +1,6 @@
-package com.spring_in.learn_spring.game;
+package game;
 
-public class PacmanGame implements GamingConsole {
+public class SuperContraGame implements GamingConsole{
     public void up() {
         System.out.println("up");
     }

@@ -1,7 +1,7 @@
 package com.spring_in.learn_spring;
 
-import com.spring_in.learn_spring.game.GameRunner;
-import com.spring_in.learn_spring.game.PacmanGame;
+import game.GameRunner;
+import game.PacmanGame;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication

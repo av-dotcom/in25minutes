@@ -1,4 +1,4 @@
-package com.spring_in.learn_spring.game;
+package game;
 
 public class GameRunner {
     private GamingConsole game;
