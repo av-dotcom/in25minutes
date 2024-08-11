@@ -1,4 +1,4 @@
-package helloworld;
+package com.spring_in.learn_spring.helloworld;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
